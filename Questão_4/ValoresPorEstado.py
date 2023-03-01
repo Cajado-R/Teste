@@ -9,7 +9,7 @@ Outros – R$19.849,53
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro
 do valor total mensal da distribuidora."""
 
-#ATENÇÃO!! NÃO COMPREENDI EXATAMENTE O QUE FAZER NESTE EXERCICIO ENTÃO ESTE CÓDIGO FOI FEITO EM CONJUNTO COM UM AMIGO (SOMENTE ESTE DO EXERCICIO 4)
+#ATENÇÃO!! NÃO COMPREENDI EXATAMENTE O QUE FAZER NESTE EXERCICIO ENTÃO ESTE CÓDIGO FOI FEITO EM CONJUNTO COM UM AMIGO (SOMENTE ESTE DO EXERCICIO DE Nº 4)
 
 #Criação do dicionario com todos os valores por estado
 FaturamentoEstados = {
